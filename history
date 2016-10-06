@@ -489,3 +489,10 @@
   489  git config --list
   490  git init
   491  history > history
+  492  git add history
+  493  git status
+  494  git commit -m 'This is supposed to add my history to my repository'
+  495  git config --global user.name "esherm01"
+  496  git config --list
+  497  git init
+  498  history > history
